@@ -1,0 +1,93 @@
+LINE1	LINE2	LINE3	CITY	STATE	POSTAL_CD	COUNTRY
+35 Halsbury House	Chancery Lane	NULL	London	NULL	WC2A 1EL	United Kingdom	 51.5162963	 -0.1115817
+American International Plaza	"250 Munoz Rivera Ave., Office 1400"	NULL	Hato Rey	PR	918	United Kingdom	 18.4264289	 -66.0593347
+1-3 Strand	NULL	NULL	London	NULL	WC2N 5JR	United Kingdom	 51.5075475	 -0.1262671
+15 St. Neots Road	SANDY	NULL	"Bedfordshire, England"	NULL	SG19 1LB	United Kingdom	 52.1305275	 -0.2913848
+2 Juniper Close	NULL	NULL	Billericay	ESSEX	CM11 1BY	United Kingdom	 51.6360029	 0.4322619
+7th Floor	125 Colmore Row	NULL	Birmingham	NULL	B3 3SH	United Kingdom	 33.5063709	 -86.9210321
+2 Cedar Avenue	NULL	NULL	Cobham	Surrey	KT11 2AB	United Kingdom	 51.3282704	 -0.4065013
+402 The Fruit & Wool ExchangeBrushfield Street	NULL	NULL	London	NULL	E1 6EP	United Kingdom	 51.5073509	 -0.1277583
+94-96 Commercial Street	NULL	NULL	London	NULL	E1 6LZ	United Kingdom	 51.5197085	 -0.0744094
+"18, St. Swithins Lane"	NULL	NULL	London	London	EC4N 8AL	United Kingdom	 51.5116907	 -0.0890389
+9 Sylvester Road	NULL	NULL	London	NULL	N2 8HN	United Kingdom	 51.5984042	 -0.1734883
+321 Lordship Lane	Flat 2	NULL	London	NULL	SE22 8JH	United Kingdom	 51.4510105	 -0.0761913
+40 Berkeley Square	NULL	NULL	London	NULL	W1J 5AL	United Kingdom	 51.5096837	 -0.1472511
+Russell Square House	10-12 Russell Square	NULL	London	NULL	WC1B 5EH	United Kingdom	 51.5230525	 -0.1265057
+Halsbury House	NULL	NULL	London	NULL	WC2A 1EL	United Kingdom	 51.5162963	 -0.1115817
+Halsbury House	35 Chancery Lane	NULL	London	NULL	WC2A 1EL	United Kingdom	 51.5162963	 -0.1115817
+Africa House	64 - 78 Kingsway	NULL	London	NULL	WC2B 6AH	United Kingdom	 51.5169622	 -0.1194102
+90 Long AcreCovent Garden	NULL	NULL	London	NULL	WC2E 9TT	United Kingdom	 51.5142506	 -0.1235045
+38 Wigmore Street	NULL	NULL	London	NULL	WIU 4HA	United Kingdom	 51.5166367	 -0.1482036
+38 Wigmore Street	NULL	NULL	London	NULL	WIU 4HA	United Kingdom	 51.5166367	 -0.1482036
+38 Wigmore Street	NULL	NULL	London	NULL	WIU 4HA	United Kingdom	 51.5166367	 -0.1482036
+38 Wigmore Street	NULL	NULL	London	NULL	WIU 4HA	United Kingdom	 51.5166367	 -0.1482036
+38 Wigmore Street	NULL	NULL	London	NULL	WIU 4HA	United Kingdom	 51.5166367	 -0.1482036
+NULL	NULL	NULL	Richmond Surrey	NULL	TW9 2QL	United Kingdom	 51.461311	 -0.303742
+"2, Alma Close"	Knaphill	NULL	Surrey	NULL	GU21 2BP	United Kingdom	 51.3171071	 -0.6044002
+8 Hamilton Mews	Potters Lane	Send	Woking	Surrey	GU23 7DZ	United Kingdom	 51.3251766	 -0.5192704
+Woodside	Church Road	Cookham Dean	NULL	Berkshire	SL6 9PJ	United Kingdom	 19.0128986	 72.8337765
+The London Stock Exchange Building	NULL	NULL	10 Paternoster Square	London	EC4M 7LT	United Kingdom	 51.5147123	 -0.0995675
+Word Exchange Ltd.	NULL	NULL	"22 Horseshoe Park, Pangbourne"	Berkshire	RG8 7JW	United Kingdom	 51.4800692	 -1.0832016
+Flat 2/2	NULL	NULL	25 Turnbull Street	Lanarkshire	G1 5PR	United Kingdom	 33.5273246	 -81.8264127
+NULL	NULL	NULL	26 Stanhope Gardens	London SW7	SW7 5QX	United Kingdom	 51.4936042	 -0.1798083
+9 Bis Route de Champagne	NULL	NULL	69134 Ecully Cedex	NULL	France	United Kingdom	 40.8367451	 -101.3885001
+"Manor House, 111 High Street"	NULL	NULL	Abbotsley	Cambridgeshire	PE19 6UE	United Kingdom	 52.1939589	 -0.197625
+Investment House	6 Union Row	NULL	Aberdeen	NULL	AB10 1DQ	United Kingdom	 57.149717	 -2.094278
+Johnstone House	52-54 Rose Street	NULL	Aberdeen	NULL	AB10 1HA	United Kingdom	 57.1451301	 -2.1112994
+10 Queens Terrace	NULL	NULL	Aberdeen	NULL	AB10 1YG	United Kingdom	 57.143503	 -2.1212929
+Bishop's Court	29 Albyn Place	NULL	Aberdeen	NULL	AB10 1YL	United Kingdom	 57.1429681	 -2.119139
+Salvesen Tower	Blaikies Quay	NULL	Aberdeen	NULL	AB11 5PW	United Kingdom	 57.144814	 -2.0901941
+8 & 9 Bon Accord Crescent	NULL	NULL	Aberdeen	NULL	AB11 6DN	United Kingdom	 57.1424624	 -2.1078469
+Rubislaw House	NULL	NULL	Aberdeen	NULL	AB15 6FZ	United Kingdom	 57.1416891	 -2.1476524
+25 The Quadrant	Abingdon Science Park	NULL	Abingdon	Oxfordshire	OX14 3YS	United Kingdom	 51.6729858	 -1.2675375
+W. Averell Harriman	State Office Building campus	NULL	Albany	NY	12227	United Kingdom	 42.61122	 -73.564221
+Heyes Lane	NULL	NULL	Alderley Edge	SK9	9TK	United Kingdom	 53.3081043	 -2.2266796
+"Second Floor, Stafford House"	33-39 Station Rd	NULL	Aldershot	Hampshire	BU11 1BA	United Kingdom	 51.248366	 -0.7557509
+Royal Pavilion	Wellesley Road	NULL	Aldershot	Hampshire	GU11 1PZ	United Kingdom	 51.2509354	 -0.7840912
+"Suite 7, Wesley Chambers"	Queen's Road	NULL	Aldershot	Hampshire	GU11 3JD	United Kingdom	 51.2481607	 -0.7687364
+Hopewiser House	20-22 Tipping Street	NULL	Altrincham	NULL	WA14 2EZ	United Kingdom	 53.3869046	 -2.3488983
+White Head House	Pacific Road	NULL	Altrincham	Cheshire	WA14 5BJ	United Kingdom	 53.4152264	 -2.3212088
+3 Wayside Court	NULL	NULL	Amersham	Bucks	HP6 5ET	United Kingdom	 51.6319554	 -0.7343557
+c/o 26 Lexham Gardens	NULL	NULL	Amersham	Bukcs	HP6 5JP	United Kingdom	 51.6814135	 -0.6061008
+Radarweg 29	NULL	NULL	Amsterdam	NULL	1043 NX	United Kingdom	 52.3932634	 4.8373631
+The Business Village	Mersham-le-Hatch	Hytrhe Road	Ashford	Kent	TN25 5NH	United Kingdom	 51.132986	 0.9486973
+131/133 Old Street	NULL	NULL	Ashton-under-Lynee	Greater Manchester	OL6 7SA	United Kingdom	 53.487387	 -2.096583
+52-54 The Green	Banbury	NULL	Banbury	NULL	OX16 9AB	United Kingdom	 52.0723476	 -1.2675188
+Linden House	55 South Bar	NULL	Banbury	Oxfordshire	OX16 9AB	United Kingdom	 52.0629009	 -1.339775
+"Regent House, Regent Street"	NULL	NULL	Barnsley	S. Yorks	S70 2EG	United Kingdom	 53.5542912	 -1.4807984
+Sterling House	17 Joy Street	NULL	Barnstaple	NULL	EX31 1HE	United Kingdom	 51.0812949	 -4.0589734
+da Vinci House	Basing View	NULL	Basingstoke	Hampshire	RG21 4EQ	United Kingdom	 51.26654	 -1.0923964
+Town Gate	38 London Street	NULL	Basingstoke	Hampshire	RG21 7NY	United Kingdom	 51.2619128	 -1.0991936
+216 Winterthur Way	Victory Hill	NULL	Basingstoke	NULL	RG21 7UF	United Kingdom	 51.2679047	 -1.0939772
+Rosalind House	Jays Close	Viables Industrial Estate	Basingstoke	Hampshire	RG22 4BS	United Kingdom	 51.2462872	 -1.0962558
+Pavilion C2	Ashwood Park	Ashwood Way	Basingstoke	NULL	RG23 8BG	United Kingdom	 51.274638	 -1.1130883
+"Cambridge House,"	Henry Street	NULL	Bath	NULL	BA1 1JS	United Kingdom	 51.3988855	 -2.3654401
+3 Queen Square	NULL	NULL	Bath	NULL	BA1 2HG	United Kingdom	 51.383476	 -2.3628693
+Midland Bridge	NULL	NULL	Bath	NULL	BA1 2HQ	United Kingdom	 51.3805167	 -2.3694613
+5 & 6 Northumberland Buildings	Queen Square	NULL	Bath	NULL	BA1 2JE	United Kingdom	 38.309501	 -85.5236889
+1 Widcombe Crescent	NULL	NULL	Bath	NULL	BA2 6AH	United Kingdom	 51.3747591	 -2.3491223
+Shakespeare House	168 Lavender Hill	NULL	"Battersea, London"	NULL	SW11 5TF	United Kingdom	 51.4647138	 -0.1613416
+55 Station Road	NULL	NULL	Beaconsfield	Bucks	HP9 1QL	United Kingdom	 51.6092253	 -0.6436388
+Kings Head House	15 London End	NULL	Beaconsfield	Buckinghamshire	HP9 2HN	United Kingdom	 51.6021854	 -0.6361593
+1 Windsor Lodge	30 Albemarie Road	NULL	Beckmam	Kent	BR3 5HJ	United Kingdom	 29.1351908	 -81.0322584
+32 Rutland Road	NULL	NULL	Bedford	Bedfordshire	MK40 1DG	United Kingdom	 52.1365008	 -0.4762294
+West One	63-67 Bromham Road	NULL	Bedford	NULL	MK40 2FG	United Kingdom	 42.9324112	 -71.5510852
+30 Victoria Street	NULL	NULL	Belfast	NULL	BT1 3GS	United Kingdom	 54.6015113	 -5.9249214
+Citylink Business Park	Albert Street	NULL	Belfast	NULL	BT12 4HB	United Kingdom	 54.597285	 -5.93012
+Axxia House	4 The Pavillion	"Ruscombe Business Park, Twyford"	Berkshire	NULL	RG109NN	United Kingdom	 42.3042402	 -76.1865964
+Spring Grove House	NULL	NULL	Bewdley	Hereford and Worcester	DY12 1LF	United Kingdom	 52.375539	 -2.316973
+4-5 Market Place	NULL	NULL	Bexleyheath	Greater London	DA6 7DU	United Kingdom	 51.4566381	 0.1459815
+10 Merlin Way	NULL	NULL	Bicester	Oxon	OX26 6YG	United Kingdom	 51.8911826	 -1.13618
+54 Hagley Road	NULL	NULL	Birmingham	NULL	B16 8PE	United Kingdom	 52.471924	 -1.924234
+Victoria Square House	Victoria Square	NULL	Birmingham	NULL	B2 4DL	United Kingdom	 52.4789558	 -1.9020945
+4th Floor King Edward House	135A New Street	NULL	Birmingham	NULL	B2 4QJ	United Kingdom	 52.506689	 -1.8672485
+8 Cherry Street	"9th Floor, Bank House"	NULL	Birmingham	NULL	B2 5AL	United Kingdom	 52.4804007	 -1.897446
+Bank House	8 Cherry Street	NULL	Birmingham	NULL	B2 5AN	United Kingdom	 52.4728389	 -1.8991289
+Imperial House	31 Temple Street	NULL	Birmingham	West Midlands	B2 5DB	United Kingdom	 52.4796408	 -1.8991116
+Somerset House	Temple Street	NULL	Birmingham	West Midlands	B2 5DJ	United Kingdom	 52.4773346	 -1.7912773
+Somerset House	Temple Street	NULL	Birmingham	West Midlands	B2 5DJ	United Kingdom	 52.4773346	 -1.7912773
+Windsor House	3 Temple Row	NULL	Birmingham	W Midlands	B2 5JR	United Kingdom	 52.4688679	 -1.7265995
+Cavendish House	39-41 Waterloo Street	NULL	Birmingham	NULL	B2 5PP	United Kingdom	 33.5206608	 -86.80249
+21 Bennetts Hill	NULL	NULL	Birmingham	NULL	B2 5QP	United Kingdom	 52.4796931	 -1.8999519
+4th Floor Waterloo House	20 Waterloo Street	NULL	Birmingham	NULL	B2 5TB	United Kingdom	 42.4794354	 -92.3217812
+Wellington House	31-34 Waterloo Street	NULL	Birmingham	NULL	B2 5TJ	United Kingdom	 52.4510371	 -1.9770257
